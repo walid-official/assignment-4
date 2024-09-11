@@ -17,3 +17,6 @@ function sendNotification(email){
     }
  }
  console.log(sendNotification("zahid@yahoo.com"));
+ console.log(sendNotification("farhan34@yahoo.com"));
+ console.log(sendNotification("nadim.naem5@outlook.com"));
+ console.log(sendNotification("zahidyahoo.com"));
